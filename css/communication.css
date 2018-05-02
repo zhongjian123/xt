@@ -22,7 +22,7 @@
 	width: 20%;
 	height: 50px;
 	line-height: 50px;
-	background-color: #646de0;
+	background-color: #1bdd7c;
 	margin-right: 10%;
 }
 .a1 a{
@@ -31,7 +31,7 @@
 }
 .a1 a:hover{
 	display: block;
-	background-color: #8c93f1
+	background-color: #0ff080;
 }
 .a2{
 	text-align: left;
@@ -53,7 +53,7 @@
 	width: 20%;
 	height: 50px;
 	line-height: 50px;
-	background-color: #646de0;
+	background-color: #1bdd7c;
 	margin-right: 10%;
 }
 .b1 a{
@@ -62,7 +62,7 @@
 }
 .b1 a:hover{
 	display: block;
-	background-color: #8c93f1
+	background-color: #0ff080;
 }
 .b2{
 	text-align: left;
